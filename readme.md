@@ -24,7 +24,7 @@ https://github.com/kanika-narang/MOOC_Data_Analysis/blob/master/DATA/cleaned%20d
 
 https://www.kaggle.com/datasets/alperkulunkoglu/udemy-courses-2011-2017?select=WebDevelopment.csv
 
-## Model 1- Comprehensice Model
+## Model 1- Comprehensive Model
 
 The first model combines demographic, behavioral and content features to predict the likelihood of a student completing a course
 
